@@ -18,5 +18,4 @@ was completed
   Testing the ultrasonic sensors on the cart by printing to console the detecting distance an object was away from the sensors by
   calculating how long the wave takes to be sent and return 
   ## char_lcd_plate.py
-  Tested the full functionality of the lcd plate including different backlight colors, custom pixel characters, message display and
-  clearing, and directional buttons
+  Testing the full functionality of the lcd plate including different backlight colors, custom pixel characters, message display and clearing, and directional buttons
