@@ -1,5 +1,8 @@
 # Trackie Tool Cart
-Autonomous tracking tool cart using python and OpenCV.
+![alt tag](https://i.imgur.com/KEjtOg6.png)
+
+Fully Autonomous tracking tool cart using python and OpenCV. This robot follows the user around using radio frequencies to triangulate the users position holding a modified walkie talkie. The Cart also features a full LCD display for user interaction, A lift and lower mechanism, and a color tracking camera which shines a light at a user defined location using color tracking and detecting a neon green magnet.
+
   ## trackiemain.py
   - trackiemain.py holds the Python code for the Trackie Tool Cart which controls the user interface, including the lcd screen,
 switches, buttons, and leds. This program also controls the camera and servo board used for the camera tracking light system.
