@@ -1,4 +1,4 @@
-***********************************************************************
+/***********************************************************************
 *
 * {Trackiemain.ino}
 * Created by: Ryan Howard
@@ -8,7 +8,7 @@
 * left and right buttons. The arduino recieves signals from the
 * Raspberry Pi through input GPIO pins to add logic to the wheels.
 *
-***********************************************************************
+***********************************************************************/
 
 //-Define-PWM-Pins------------------------------------------------------
 #define LEFT_DIRECTION 4
